@@ -2,3 +2,8 @@
 	path = ingeint/odoo-kushki
 	url = git@github.com:ingeint/odoo-kushki.git
 	branch = master
+
+[submodule "ingeint/odoo-kush"]
+	path = ingeint/odoo-kush
+	url = git@github.com:ingeint/odoo-kushki.git
+	branch = master
